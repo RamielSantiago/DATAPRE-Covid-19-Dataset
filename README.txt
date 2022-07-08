@@ -1,6 +1,4 @@
-This Dataset contains data concerning recorded COVID-19 cases in the Philippines starting January 2020 up until June 2022, with information pertaining the a patient's personal 
-(Age, Age Group, Sex, Address, etc.) and medical status (Health Status, Quarantining, Date of Death/Recovery, etc.). Further description of the data columns can be found in the 
-Data Dictionary pdf file listed above. The information pertaining to the manipulation and creation of this dataset is in the ipynb files within the Notebooks folder of this
+This Dataset contains data concerning recorded COVID-19 cases in the Philippines starting January 2020 up until June 2022, with information pertaining the a patient's personal (Age, Age Group, Sex, Address, etc.) and medical status (Health Status, Quarantining, Date of Death/Recovery, etc.). Further description of the data columns can be found in the Data Dictionary pdf file listed above. The information pertaining to the manipulation and creation of this dataset is in the ipynb files within the Notebooks folder of this
 Repository, which includes Data Wrangling (from original DOH Data Drops), Feature Engineering, Geographical Data Analysis, and Time Series Data. Furthermore, the datasets
 in this repository can be found within the Datasets folder and organized according to the nature of the data and formatted as csv files, but compressed into zip files for
 easier storage and organization. 
