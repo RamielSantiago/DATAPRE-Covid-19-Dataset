@@ -4,5 +4,4 @@ Furthermore, the datasets in this repository can be found within the Datasets fo
 
 The importance of this project and these datasets is providing an organized/cleaned set of Covid-19 case data for future use in data analysis or citation pertaining to the use of this data in the future. Furthremore, the data is important as the Covid-19 Pandemic is still ongoing (albeit also slowing down) as of the publishing of this dataset, and a record of the past cases can help determine the impact of the Pandemic on the country's population as a whole with regards to the death toll and the number of confirmed cases.
 
-The datasets, notebooks, and other miscellaneous files in this repository is the work of Adrian Florin and Jairus Ramiel C. Santiago in partial completion
-of requirements for DATAPRE N01 Term 2, A.Y. 2021-2022.
+The datasets, notebooks, and other miscellaneous files in this repository is the work of Adrian Florin and Jairus Ramiel C. Santiago in partial completion of requirements for DATAPRE N01 Term 2, A.Y. 2021-2022.
